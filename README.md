@@ -7,4 +7,5 @@ Blog-Project In Progres....
 * Flask
 * pymongo
 * Mongo-DB
+* HTML5 & CSS3
 
