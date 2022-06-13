@@ -1,7 +1,7 @@
 # my-Blog-Project
 
 ## Blog Project
-** User can Submit Blog Posts on this website
+**User can Submit Blog Posts on this website
 
 ## Technologies:
 * Python
