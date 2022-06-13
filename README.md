@@ -1,6 +1,7 @@
 # my-Blog-Project
 
-Blog-Project In Progres....
+## Blog Project
+** User can Submit Blog Posts on this website
 
 ## Technologies:
 * Python
