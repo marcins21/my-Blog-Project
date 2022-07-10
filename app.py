@@ -10,7 +10,7 @@ from pymongo import MongoClient
 
 app = Flask(__name__)
 #Client
-client = MongoClient("mongodb+srv://msitko21:galleoo21@microblog-ap.d4dha.mongodb.net/test")
+client = MongoClient("mongodb+srv://msitko21:<password>@microblog-ap.d4dha.mongodb.net/test")
 #Database microblog
 app.db = client.microblog
 
